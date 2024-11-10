@@ -6,7 +6,7 @@ headers = {
     "User-Agent": "CompuServe Classic/1.22",
     "Accept": "application/json",
     "Host": "api.genius.com",
-    "Authorization": "Bearer"}
+    "Authorization": "Bearer ........."}
 header = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5"}
 
 
